@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.container {
+    border: 5px ridge rgb(13, 223, 100);
+    padding: 10px;
+    background-color: beige;
+}
+
+.container img {
+    height: 100px;
+    padding-left: 10px;
+    display: inline-flex;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+#foto img {
+    float: right; width: 30%;
+    padding: 5px;
+}
